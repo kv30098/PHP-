@@ -1,0 +1,25 @@
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.center{
+    text-align: center;
+}
+
+.divider{
+    border: none;
+    height: 3px;
+    background-color: #4f5d64;
+    width: 75%;
+}
+
+body{
+    background-image: url();
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    margin: 0;
+}
